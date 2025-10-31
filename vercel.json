@@ -1,0 +1,29 @@
+{
+  "redirects": [
+    { 
+      "source": "/x", 
+      "destination": "https://gum.co/u/i8bllol3?utm_source=twitter&utm_medium=social&utm_campaign=framerkit_links", 
+      "permanent": false 
+    },
+    { 
+      "source": "/i", 
+      "destination": "https://gum.co/u/71g8upaa?utm_source=instagram&utm_medium=social&utm_campaign=framerkit_links", 
+      "permanent": false 
+    },
+    { 
+      "source": "/y", 
+      "destination": "https://gum.co/u/5idfoxzw?utm_source=youtube&utm_medium=social&utm_campaign=framerkit_links", 
+      "permanent": false 
+    },
+    { 
+      "source": "/t", 
+      "destination": "https://gum.co/u/0dzfwb4p?utm_source=threads&utm_medium=social&utm_campaign=framerkit_links", 
+      "permanent": false 
+    },
+    { 
+      "source": "/k", 
+      "destination": "https://gum.co/u/9nwtgd6g?utm_source=tiktok&utm_medium=social&utm_campaign=framerkit_links", 
+      "permanent": false 
+    }
+  ]
+}
