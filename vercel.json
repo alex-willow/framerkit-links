@@ -1,5 +1,10 @@
 {
   "redirects": [
+    {
+      "source": "/",
+      "destination": "https://pluginframerkit.framer.website/",
+      "permanent": false
+    },
     { 
       "source": "/x", 
       "destination": "https://gum.co/u/i8bllol3?utm_source=twitter&utm_medium=social&utm_campaign=framerkit_links", 
